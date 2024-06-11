@@ -3,7 +3,7 @@
 //  Swift Course
 //
 //  Created by Quetzal on 18/5/24.
-//
+// This is the way to make a comment
 
 import Cocoa
 
