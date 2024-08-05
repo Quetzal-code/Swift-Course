@@ -74,10 +74,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		9AD1397C2BF931D90026A20A = {
+		9A91A5612C1BB92300D4428F /* Practice folder */ = {
 			isa = PBXGroup;
 			children = (
 				9A91A55F2C1BB73D00D4428F /* Practice file.swift */,
+			);
+			path = "Practice folder";
+			sourceTree = "<group>";
+		};
+		9AD1397C2BF931D90026A20A = {
+			isa = PBXGroup;
+			children = (
+				9A91A5612C1BB92300D4428F /* Practice folder */,
 				9AD139872BF931D90026A20A /* Swift Course */,
 				9AD139992BF931DA0026A20A /* Swift CourseTests */,
 				9AD139A32BF931DA0026A20A /* Swift CourseUITests */,

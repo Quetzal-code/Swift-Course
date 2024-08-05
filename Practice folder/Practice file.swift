@@ -13,23 +13,23 @@ import Foundation
  is created like this
 
  */
-var greeting = "Hello, playground"
+var greeting2 = "Hello, playground"
 // var is a reserved word
 // Use descriptive variables names
 
 // Variables declaration using ""
 
 // How to display something
-print(greeting)
+print(greeting2)
 print("Display tex like this")
 
 //a variable that doesn't change is made using let
 let countryOfBirth = "Venezuela"
 
 // Changing the value of a variable
-var age = 5
-age = 6
-print(age)
+var age1 = 5
+age1 = 6
+print(age1)
 
 // Variables type
 // We could specify the data tyoe
@@ -81,3 +81,4 @@ let isPleasant:Bool = temperature > 20 && isSunny
 let wearHat = !isSunny
 
 // Convertions
+
