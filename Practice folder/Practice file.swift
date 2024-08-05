@@ -82,3 +82,13 @@ let wearHat = !isSunny
 
 // Convertions
 
+func evenOrOdd( number : Int) -> String {
+  if number % 2 == 0 {
+    return "Even"
+  }
+  else {
+    return "Odd"
+  }
+}
+
+print(evenOrOdd(number:3))
